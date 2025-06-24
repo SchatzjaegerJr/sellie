@@ -1,5 +1,3 @@
-
-"use client";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -7,7 +5,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Instagram } from "lucide-react";
 import { motion } from "framer-motion";
 
-export default function Home() {
+export default function VerkaufsService() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-white to-gray-100 text-gray-800 px-6 py-12 max-w-6xl mx-auto">
       <motion.div
